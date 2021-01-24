@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GemRush.unity
+- path: Assets/Scenes/GemRush.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
